@@ -20,6 +20,8 @@ public class Game1 : Game
     {
         // TODO: Add your initialization logic here
 
+        // Adding comment to demonstrate
+
         base.Initialize();
     }
 
